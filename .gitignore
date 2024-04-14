@@ -1,5 +1,15 @@
 # Prerequisites
 *.d
+*.psd
+*.jpeg
+*.jpg
+*.png
+*.exr
+*.zip
+*.blend1
+*.mtl
+*.dae
+*.smd
 
 # Object files
 *.o
