@@ -10,6 +10,7 @@
 *.mtl
 *.dae
 *.smd
+*.obj
 
 # Object files
 *.o
